@@ -1,1 +1,1 @@
-export { applyDiscount } from './lib/core/discount.js';
+export { applyDiscount } from './lib/wrappers/discount.js';
